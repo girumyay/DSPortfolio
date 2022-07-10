@@ -6,3 +6,16 @@ my Data Science portfolio
 - a filtering system where the user can filter out certain artists or genre from their recommendation.
 - user can create a playlist where thay can add songs, delete songs, and rename playlist.
 - user can access information about songs (i.e. song title, song length, artist, album)
+
+
+
+# [Project #2: Apple Pie]
+- user will be able to guess the word within a limited number of tries.
+- if user gets the word correct or incorrect, they will get a score added to each respective category.
+- Once user clicks on a word, they will not be able to use it again.
+
+
+# About me
+- I am currently a student at UC Riverside, going for a major in Data Science
+- I have experience with C++, Java and now, Swift
+- I am a first generation college student looking to learn and experience everything this field has to offer.
