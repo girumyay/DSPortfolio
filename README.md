@@ -7,13 +7,13 @@ my Data Science portfolio
 - user can create a playlist where thay can add songs, delete songs, and rename playlist.
 - user can access information about songs (i.e. song title, song length, artist, album)
 
-[](https://github.com/girumyay/DSPortfolio/blob/main/Apple%20Pie.png)
 
 # [Project #2: Apple Pie]
 - user will be able to guess the word within a limited number of tries.
 - if user gets the word correct or incorrect, they will get a score added to each respective category.
 - Once user clicks on a word, they will not be able to use it again.
 
+[](https://github.com/girumyay/DSPortfolio/blob/main/Apple%20Pie.png)
 
 # About me
 - I am currently a student at UC Riverside, going for a major in Data Science
